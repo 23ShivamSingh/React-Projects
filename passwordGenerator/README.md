@@ -1,15 +1,15 @@
 # Steps to follow
 
-Step-1 Unzip the public.zip file:
+## Step-1 Unzip the public.zip file:
 * Locate the public.zip file on your system and unzip it. This will create the following folders:
 node_modules
 public
 src
-Step-2 Organize the folders:
+## Step-2 Organize the folders:
 * Ensure that the node_modules, public, and src folders are placed in the same directory as the other files.
-Step-3 Open the folder in Visual Studio Code:
+## Step-3 Open the folder in Visual Studio Code:
 * Launch Visual Studio Code and navigate to the folder containing all the files, including the unzipped folders.
-Step-4 Explore your files:
+## Step-4 Explore your files:
 * Once the folder is open in VS Code, you can start working with your project files.
 
 # React + Vite
